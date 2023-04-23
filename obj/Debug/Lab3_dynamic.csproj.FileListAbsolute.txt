@@ -1,0 +1,7 @@
+C:\Install\МИЭТ\Семестр 4\АиСД\Lab3_dynamic\Lab3_dynamic\bin\Debug\Lab3_dynamic.exe.config
+C:\Install\МИЭТ\Семестр 4\АиСД\Lab3_dynamic\Lab3_dynamic\bin\Debug\Lab3_dynamic.exe
+C:\Install\МИЭТ\Семестр 4\АиСД\Lab3_dynamic\Lab3_dynamic\bin\Debug\Lab3_dynamic.pdb
+C:\Install\МИЭТ\Семестр 4\АиСД\Lab3_dynamic\Lab3_dynamic\obj\Debug\Lab3_dynamic.csproj.AssemblyReference.cache
+C:\Install\МИЭТ\Семестр 4\АиСД\Lab3_dynamic\Lab3_dynamic\obj\Debug\Lab3_dynamic.csproj.CoreCompileInputs.cache
+C:\Install\МИЭТ\Семестр 4\АиСД\Lab3_dynamic\Lab3_dynamic\obj\Debug\Lab3_dynamic.exe
+C:\Install\МИЭТ\Семестр 4\АиСД\Lab3_dynamic\Lab3_dynamic\obj\Debug\Lab3_dynamic.pdb
